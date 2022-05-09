@@ -1,12 +1,12 @@
 {
-  "name": "File Sharing Vyora",
+  "name": "File Sharing Zean",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/vyora/Vyora-File-Sharing3",
+  "repository": "https://github.com/sayazean/File3",
   "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -59,12 +59,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "AbingProject",
+      "value": "ZeannProject",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "AbingSupport",
+      "value": "ZeanSupport",
       "required": false
     }
   },
