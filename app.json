@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/sayazean/File3",
+  "repository": "https://github.com/SayaAbing/File3",
   "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
