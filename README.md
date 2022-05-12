@@ -1,11 +1,11 @@
-# Fileshare-Vyora
+# Fileshare-Zean
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@AbingSupport](https://www.telegram.dog/AbingSupport)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@ZeanSupport](https://www.telegram.dog/ZeanSupport)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SayaAbing/File3)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayazean/File3)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -89,7 +89,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [@AbingSupport](https://www.telegram.dog/AbingSupport) Untuk Dukungan/Bantuan Dan Join [@AbingProject](https://www.telegram.dog/AbingProject) untu info Update bot.   
+Bergabunglah di [@ZeanSupport](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@ZeanProject](https://www.telegram.dog/AbingProject) untu info Update bot.   
  
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
