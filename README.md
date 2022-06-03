@@ -1,5 +1,10 @@
 # Fileshare-Zean
 
+<p align="center">
+  <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">
+</p>
+
+
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
