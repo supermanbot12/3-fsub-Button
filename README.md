@@ -1,4 +1,4 @@
-# Fileshare-Zean
+# Fileshare-Superman
 
 <p align="center">
   <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">
@@ -27,7 +27,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayazean/File3)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/supermanbot12/File3)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -94,13 +94,13 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [@ZeanSupport](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@ZeanProject](https://www.telegram.dog/AbingProject) untu info Update bot.   
+Bergabunglah di [@supermansupportt](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@supermansupport](https://www.telegram.dog/AbingProject) untu info Update bot.   
  
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
 ### Credits
 
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram) Yui
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
 
