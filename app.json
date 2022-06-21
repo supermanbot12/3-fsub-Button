@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/supermanbot12/3-fsub-Button",
-  "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
+  "logo": "https://telegra.ph/file/0be7f54e3cfb5234102c6.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
