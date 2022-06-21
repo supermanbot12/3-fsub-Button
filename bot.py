@@ -96,13 +96,13 @@ class Bot(Client):
                 f"Pastikan Bot adalah Admin di Channel DataBase, dan Periksa kembali Nilai CHANNEL_ID, Nilai Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "\nBot Berhenti. Gabung Group https://t.me/AbingSupport untuk Bantuan"
+                "\nBot Berhenti. Gabung Group https://t.me/supermansupportt untuk Bantuan"
             )
             sys.exit()
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🦸 BERHASIL DIAKTIFKAN! 🦸]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/AbingSupport"
+            f"[🦸 BERHASIL DIAKTIFKAN! 🦸]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/supermansupportt"
         )
         self.username = usr_bot_me.username
 
