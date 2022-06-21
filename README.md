@@ -1,7 +1,7 @@
 # Fileshare-Superman
 
 <p align="center">
-  <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">
+  <img src="https://telegra.ph/file/0be7f54e3cfb5234102c6.jpg">
 </p>
 
 
@@ -10,7 +10,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@ZeanSupport](https://www.telegram.dog/ZeanSupport)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@supermansupport](https://www.telegram.dog/supermansupportt)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -95,7 +95,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [@supermansupportt](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@supermansupport](https://www.telegram.dog/AbingProject) untu info Update bot.   
+Bergabunglah di [@supermansupportt](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@supermansupport](https://www.telegram.dog/Tentangsayaa13) untu info Update bot.   
  
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
