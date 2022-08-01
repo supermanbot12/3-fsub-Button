@@ -37,7 +37,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/PaleXUr/Pale-File-Sharing4
+git clone https://github.com/supermanbot12/3-fsub-Button
 cd palefilesharing4
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
