@@ -38,7 +38,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/supermanbot12/3-fsub-Button
-cd palefilesharing4
+cd 3-fsub-Button
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
